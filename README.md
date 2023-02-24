@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del PrepCourse del modulo2 de Henry
+Prueba de como crear un repositorio 
